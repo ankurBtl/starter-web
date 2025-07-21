@@ -14,6 +14,7 @@ Sample website with plenty of files for demos of git.
 Can be deployed anywhere local or web server.
 
 ## How To Contribute
+please fork and create a pull request for review after making changes
 
 ### Copyright
 
