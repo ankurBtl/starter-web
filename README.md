@@ -11,5 +11,6 @@ This example is to show different parts of the Git repository and various comman
 Sample website with plenty of files for demos
 
 ## Deployment
+Can be deployed anywhere
 
 ## How To Contribute
