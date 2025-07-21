@@ -14,3 +14,7 @@ Sample website with plenty of files for demos of git.
 Can be deployed anywhere local or web server.
 
 ## How To Contribute
+
+### Copyright
+
+2014 ankur
