@@ -19,4 +19,4 @@ please fork and create a pull request for review after making changes
 
 ### Copyright
 
-2014 ankur
+2014 Ankur. All rights reserved.
